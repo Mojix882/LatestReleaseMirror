@@ -6,3 +6,4 @@ anonvector/SlipNet
 Happ-proxy/happ-android
 nullroute1970/StormDNS
 RevocGG/MasterDnsVPN-AndroidGG
+therealaleph/MasterHttpRelayVPN-RUST
