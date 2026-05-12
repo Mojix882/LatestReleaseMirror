@@ -7,3 +7,4 @@ nullroute1970/StormDNS
 RevocGG/MasterDnsVPN-AndroidGG
 therealaleph/MasterHttpRelayVPN-RUST
 Kianmhz/GooseRelayVPN
+iampedii/WhiteDNS
