@@ -157,6 +157,39 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+
+---
+
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayng
+
+🔗 [source](https://github.com/2dust/v2rayng) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayng/releases/tag/2.1.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.1.7-fdroid_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_universal.apk) |
+| `v2rayNG_2.1.7-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_x86.apk) |
+| `v2rayNG_2.1.7-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_x86_64.apk) |
+| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_arm64-v8a.apk) |
+| `v2rayNG_2.1.7_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_armeabi-v7a.apk) |
+| `v2rayNG_2.1.7_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_universal.apk) |
+| `v2rayNG_2.1.7_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_x86.apk) |
+| `v2rayNG_2.1.7_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_x86_64.apk) |
+
+---
+
 <div id="happ-proxy--happ-android"></div>
 
 ### Happ-proxy--happ-android
@@ -242,22 +275,22 @@ sha256sum FILE_NAME
 
 ### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.2.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.3.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.3.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.2.0-universal.apk` | 16.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk) |
-| `WhiteDNS-1.2.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk.idsig) |
-| `WhiteDNS-1.2.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk) |
-| `WhiteDNS-1.2.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk.idsig) |
-| `WhiteDNS-1.2.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk) |
-| `WhiteDNS-1.2.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk.idsig) |
+| `WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.3.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk) |
+| `WhiteDNS-1.3.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.3.0-armeabi-v7a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.3.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.3.0-universal.apk` | 16.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk) |
+| `WhiteDNS-1.3.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk.idsig) |
+| `WhiteDNS-1.3.0-x86.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk) |
+| `WhiteDNS-1.3.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk.idsig) |
+| `WhiteDNS-1.3.0-x86_64.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk) |
+| `WhiteDNS-1.3.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk.idsig) |
 
 ---
 
@@ -265,85 +298,85 @@ sha256sum FILE_NAME
 
 ### nullroute1970--StormDNS
 
-🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.08.160835-42554b3</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.08.160835-42554b3)
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.13.223445-87348df</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.13.223445-87348df)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 10 KB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/SHA256SUMS.txt) |
-| `StormDNS_Client_Linux-Legacy_AMD64.tar.gz` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.tar.gz) |
-| `StormDNS_Client_Linux-Legacy_AMD64.zip` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.zip) |
-| `StormDNS_Client_Linux-Legacy_ARM64.tar.gz` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.tar.gz) |
-| `StormDNS_Client_Linux-Legacy_ARM64.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.zip) |
-| `StormDNS_Client_Linux_AMD64.tar.gz` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.tar.gz) |
-| `StormDNS_Client_Linux_AMD64.zip` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.zip) |
-| `StormDNS_Client_Linux_ARM64.tar.gz` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.tar.gz) |
-| `StormDNS_Client_Linux_ARM64.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.zip) |
-| `StormDNS_Client_Linux_ARMV5.tar.gz` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.tar.gz) |
-| `StormDNS_Client_Linux_ARMV5.zip` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.zip) |
-| `StormDNS_Client_Linux_ARMV6.tar.gz` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.tar.gz) |
-| `StormDNS_Client_Linux_ARMV6.zip` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.zip) |
-| `StormDNS_Client_Linux_ARMV7.tar.gz` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.tar.gz) |
-| `StormDNS_Client_Linux_ARMV7.zip` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.zip) |
-| `StormDNS_Client_Linux_MIPS.tar.gz` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.tar.gz) |
-| `StormDNS_Client_Linux_MIPS.zip` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.zip) |
-| `StormDNS_Client_Linux_MIPS64.tar.gz` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.tar.gz) |
-| `StormDNS_Client_Linux_MIPS64.zip` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.zip) |
-| `StormDNS_Client_Linux_MIPS64LE.tar.gz` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.tar.gz) |
-| `StormDNS_Client_Linux_MIPS64LE.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.zip) |
-| `StormDNS_Client_Linux_MIPSLE.tar.gz` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.tar.gz) |
-| `StormDNS_Client_Linux_MIPSLE.zip` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.zip) |
-| `StormDNS_Client_Linux_RISCV64.tar.gz` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.tar.gz) |
-| `StormDNS_Client_Linux_RISCV64.zip` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.zip) |
-| `StormDNS_Client_Linux_X86.tar.gz` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.tar.gz) |
-| `StormDNS_Client_Linux_X86.zip` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.zip) |
-| `StormDNS_Client_MacOS_AMD64.tar.gz` | 6.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.tar.gz) |
-| `StormDNS_Client_MacOS_AMD64.zip` | 6.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.zip) |
-| `StormDNS_Client_MacOS_ARM64.tar.gz` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.tar.gz) |
-| `StormDNS_Client_MacOS_ARM64.zip` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.zip) |
-| `StormDNS_Client_Termux_ARM64.tar.gz` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
-| `StormDNS_Client_Termux_ARM64.zip` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
-| `StormDNS_Client_Termux_ARMV7.tar.gz` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.tar.gz) |
-| `StormDNS_Client_Termux_ARMV7.zip` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.zip) |
-| `StormDNS_Client_Windows_AMD64.zip` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
-| `StormDNS_Client_Windows_ARM64.zip` | 5.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_ARM64.zip) |
-| `StormDNS_Client_Windows_X86.zip` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_X86.zip) |
-| `StormDNS_Server_Linux-Legacy_AMD64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.tar.gz) |
-| `StormDNS_Server_Linux-Legacy_AMD64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.zip) |
-| `StormDNS_Server_Linux-Legacy_ARM64.tar.gz` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.tar.gz) |
-| `StormDNS_Server_Linux-Legacy_ARM64.zip` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.zip) |
-| `StormDNS_Server_Linux_AMD64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.tar.gz) |
-| `StormDNS_Server_Linux_AMD64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.zip) |
-| `StormDNS_Server_Linux_ARM64.tar.gz` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.tar.gz) |
-| `StormDNS_Server_Linux_ARM64.zip` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.zip) |
-| `StormDNS_Server_Linux_ARMV5.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.tar.gz) |
-| `StormDNS_Server_Linux_ARMV5.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.zip) |
-| `StormDNS_Server_Linux_ARMV6.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.tar.gz) |
-| `StormDNS_Server_Linux_ARMV6.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.zip) |
-| `StormDNS_Server_Linux_ARMV7.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.tar.gz) |
-| `StormDNS_Server_Linux_ARMV7.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.zip) |
-| `StormDNS_Server_Linux_MIPS.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.tar.gz) |
-| `StormDNS_Server_Linux_MIPS.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.zip) |
-| `StormDNS_Server_Linux_MIPS64.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.tar.gz) |
-| `StormDNS_Server_Linux_MIPS64.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.zip) |
-| `StormDNS_Server_Linux_MIPS64LE.tar.gz` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.tar.gz) |
-| `StormDNS_Server_Linux_MIPS64LE.zip` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.zip) |
-| `StormDNS_Server_Linux_MIPSLE.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.tar.gz) |
-| `StormDNS_Server_Linux_MIPSLE.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.zip) |
-| `StormDNS_Server_Linux_RISCV64.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.tar.gz) |
-| `StormDNS_Server_Linux_RISCV64.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.zip) |
-| `StormDNS_Server_Linux_X86.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.tar.gz) |
-| `StormDNS_Server_Linux_X86.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.zip) |
-| `StormDNS_Server_MacOS_AMD64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.tar.gz) |
-| `StormDNS_Server_MacOS_AMD64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.zip) |
-| `StormDNS_Server_MacOS_ARM64.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.tar.gz) |
-| `StormDNS_Server_MacOS_ARM64.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.zip) |
-| `StormDNS_Server_Termux_ARM64.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.tar.gz) |
-| `StormDNS_Server_Termux_ARM64.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.zip) |
-| `StormDNS_Server_Termux_ARMV7.tar.gz` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.tar.gz) |
-| `StormDNS_Server_Termux_ARMV7.zip` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.zip) |
-| `StormDNS_Server_Windows_AMD64.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_AMD64.zip) |
-| `StormDNS_Server_Windows_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_ARM64.zip) |
-| `StormDNS_Server_Windows_X86.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_X86.zip) |
+| `StormDNS_Client_Linux-Legacy_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.tar.gz) |
+| `StormDNS_Client_Linux-Legacy_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.zip) |
+| `StormDNS_Client_Linux-Legacy_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.tar.gz) |
+| `StormDNS_Client_Linux-Legacy_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.zip) |
+| `StormDNS_Client_Linux_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.tar.gz) |
+| `StormDNS_Client_Linux_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.zip) |
+| `StormDNS_Client_Linux_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.tar.gz) |
+| `StormDNS_Client_Linux_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.zip) |
+| `StormDNS_Client_Linux_ARMV5.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.tar.gz) |
+| `StormDNS_Client_Linux_ARMV5.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.zip) |
+| `StormDNS_Client_Linux_ARMV6.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.tar.gz) |
+| `StormDNS_Client_Linux_ARMV6.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.zip) |
+| `StormDNS_Client_Linux_ARMV7.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.tar.gz) |
+| `StormDNS_Client_Linux_ARMV7.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.zip) |
+| `StormDNS_Client_Linux_MIPS.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.tar.gz) |
+| `StormDNS_Client_Linux_MIPS.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.zip) |
+| `StormDNS_Client_Linux_MIPS64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.tar.gz) |
+| `StormDNS_Client_Linux_MIPS64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.zip) |
+| `StormDNS_Client_Linux_MIPS64LE.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.tar.gz) |
+| `StormDNS_Client_Linux_MIPS64LE.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.zip) |
+| `StormDNS_Client_Linux_MIPSLE.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.tar.gz) |
+| `StormDNS_Client_Linux_MIPSLE.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.zip) |
+| `StormDNS_Client_Linux_RISCV64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.tar.gz) |
+| `StormDNS_Client_Linux_RISCV64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.zip) |
+| `StormDNS_Client_Linux_X86.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.tar.gz) |
+| `StormDNS_Client_Linux_X86.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.zip) |
+| `StormDNS_Client_MacOS_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.tar.gz) |
+| `StormDNS_Client_MacOS_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.zip) |
+| `StormDNS_Client_MacOS_ARM64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.tar.gz) |
+| `StormDNS_Client_MacOS_ARM64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.zip) |
+| `StormDNS_Client_Termux_ARM64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
+| `StormDNS_Client_Termux_ARM64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
+| `StormDNS_Client_Termux_ARMV7.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.tar.gz) |
+| `StormDNS_Client_Termux_ARMV7.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.zip) |
+| `StormDNS_Client_Windows_AMD64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+| `StormDNS_Client_Windows_ARM64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_ARM64.zip) |
+| `StormDNS_Client_Windows_X86.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_X86.zip) |
+| `StormDNS_Server_Linux-Legacy_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.tar.gz) |
+| `StormDNS_Server_Linux-Legacy_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.zip) |
+| `StormDNS_Server_Linux-Legacy_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.tar.gz) |
+| `StormDNS_Server_Linux-Legacy_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.zip) |
+| `StormDNS_Server_Linux_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.tar.gz) |
+| `StormDNS_Server_Linux_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.zip) |
+| `StormDNS_Server_Linux_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.tar.gz) |
+| `StormDNS_Server_Linux_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.zip) |
+| `StormDNS_Server_Linux_ARMV5.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.tar.gz) |
+| `StormDNS_Server_Linux_ARMV5.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.zip) |
+| `StormDNS_Server_Linux_ARMV6.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.tar.gz) |
+| `StormDNS_Server_Linux_ARMV6.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.zip) |
+| `StormDNS_Server_Linux_ARMV7.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.tar.gz) |
+| `StormDNS_Server_Linux_ARMV7.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.zip) |
+| `StormDNS_Server_Linux_MIPS.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.tar.gz) |
+| `StormDNS_Server_Linux_MIPS.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.zip) |
+| `StormDNS_Server_Linux_MIPS64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.tar.gz) |
+| `StormDNS_Server_Linux_MIPS64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.zip) |
+| `StormDNS_Server_Linux_MIPS64LE.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.tar.gz) |
+| `StormDNS_Server_Linux_MIPS64LE.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.zip) |
+| `StormDNS_Server_Linux_MIPSLE.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.tar.gz) |
+| `StormDNS_Server_Linux_MIPSLE.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.zip) |
+| `StormDNS_Server_Linux_RISCV64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.tar.gz) |
+| `StormDNS_Server_Linux_RISCV64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.zip) |
+| `StormDNS_Server_Linux_X86.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.tar.gz) |
+| `StormDNS_Server_Linux_X86.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.zip) |
+| `StormDNS_Server_MacOS_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.tar.gz) |
+| `StormDNS_Server_MacOS_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.zip) |
+| `StormDNS_Server_MacOS_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.tar.gz) |
+| `StormDNS_Server_MacOS_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.zip) |
+| `StormDNS_Server_Termux_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.tar.gz) |
+| `StormDNS_Server_Termux_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.zip) |
+| `StormDNS_Server_Termux_ARMV7.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.tar.gz) |
+| `StormDNS_Server_Termux_ARMV7.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.zip) |
+| `StormDNS_Server_Windows_AMD64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_AMD64.zip) |
+| `StormDNS_Server_Windows_ARM64.zip` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_ARM64.zip) |
+| `StormDNS_Server_Windows_X86.zip` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_X86.zip) |
 
 ---
 
@@ -351,15 +384,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.23</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.23)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.25</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.25)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.23.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.23.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.23.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.23.apk) |
-| `mhrv-rs-android-universal-v1.9.23.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.23.apk) |
-| `mhrv-rs-android-x86-v1.9.23.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.23.apk) |
-| `mhrv-rs-android-x86_64-v1.9.23.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.23.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.25.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.25.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.25.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.25.apk) |
+| `mhrv-rs-android-universal-v1.9.25.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.25.apk) |
+| `mhrv-rs-android-x86-v1.9.25.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.25.apk) |
+| `mhrv-rs-android-x86_64-v1.9.25.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.25.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mojix882/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
