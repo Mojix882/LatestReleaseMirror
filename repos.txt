@@ -4,7 +4,8 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 anonvector/SlipNet
 nullroute1970/StormDNS
-RevocGG/MasterDnsVPN-AndroidGG
 therealaleph/MasterHttpRelayVPN-RUST
 Kianmhz/GooseRelayVPN
 iampedii/WhiteDNS
+2dust/v2rayN
+2dust/v2rayng
